@@ -1,3 +1,9 @@
+Data Confidentiality Notice
+
+The full Medical Knowledge Graph (comprising over 10,000 entities and 30,000 relationships) utilized in this project is currently withheld. This is in strict compliance with medical data privacy policies and the ongoing peer-review process of our associated academic manuscript.
+
+Please note that no dataset files are included in this repository. However, the Multi-Agent RAG architecture and the custom Dynamic Beam Search algorithms are highly decoupled and designed to be fully compatible with standardized JSON/Neo4j graph structures. Researchers and developers can independently initialize the reasoning engine by plugging in their own domain-specific knowledge graphs.
+
 # 🌿 TCM-GYN-MDT — 中医妇科多智能体智能决策系统
 
 基于 **多智能体协作(Multi-Agent)** 与 **知识图谱(GraphRAG)** 的中医妇科家庭辅助分诊平台。
