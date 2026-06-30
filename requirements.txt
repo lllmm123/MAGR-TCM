@@ -1,0 +1,10 @@
+streamlit>=1.38.0
+pyvis>=0.3.2
+sentence-transformers>=3.0.0
+spacy>=3.8.0
+rapidfuzz>=3.0.0
+jieba>=0.42.1
+pypinyin>=0.51.0
+python-Levenshtein>=0.27.0
+duckduckgo_search>=8.0.0
+spacy-pkuseg>=1.0.0
